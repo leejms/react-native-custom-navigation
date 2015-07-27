@@ -20,8 +20,10 @@
   "author": "Chen Zhejun <devsuperdami@gmail.com>",
   "license": "MIT",
   "homepage": "https://github.com/superdami/react-native-custom-navigation",
+    "peerDependencies": {
+    "react-native": ">=0.5.0"
+  },
   "dependencies": {
-    "react-native" : "^0.5.0",
     "react-timer-mixin" : "*"
   }
 }
